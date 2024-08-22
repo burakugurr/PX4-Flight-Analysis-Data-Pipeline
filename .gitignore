@@ -1,0 +1,8 @@
+/.vscode
+Docker/airflow/logs/*
+Docker/airflow/logs/scheduler/*
+Docker/airflow/logs/dag_processor_manager/dag_processor_manager.log
+Docker/airflow/logs/dag_processor_manager/dag_processor_manager.log
+Docker/airflow/logs/scheduler/2024-08-18/extract_ulog_dag.py.log
+Docker/airflow/logs/scheduler/2024-08-18/test.py.log
+src/spark
